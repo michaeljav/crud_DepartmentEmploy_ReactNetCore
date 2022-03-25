@@ -41,5 +41,14 @@ CRUD  Deparment and Employees. Developed in React and .net core
    1. **Open command line in Visual Code: window (Ctrl + `) or Mac shortcut (Command + Shift + P)**
    1. **Run the following code to download packages from node\_modules :** npm install
    1. **Once downloaded, run the following code to Run Client Reat.js:** npm start
+   
+   
+1. **Some Screenshot**
+   ![](ScreenShot/imag1.png)
+   ![](ScreenShot/imag2.png)
+   ![](ScreenShot/imag3.png)
+   ![](ScreenShot/imag4.png)
+   
+  
 
 
