@@ -31,6 +31,8 @@ CRUD  Deparment and Employees. Developed in React and .net core
 1. **Rest API** 
    1. Insert database connection credentials (“**Server, User, Password”**) in the API, located in the file “**appsettings.json”** in the object “**ConnectionStrings”** . 
    1. Run Rest API service located in the folder: **…\WebApi_CRUD**
+   1. To run the .net core 5 api you must have the asp.net core hosting bundle runtime. Below the download link.
+   https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.3-windows-hosting-bundle-installer
   
 
 1. **Raise React UI (Client)**
