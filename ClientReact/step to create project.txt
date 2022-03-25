@@ -1,0 +1,7 @@
+Create App: npx create-react-app crud_departments_employees
+switch to diretory: cd <directory>
+open VSC : code .
+run project: npm start
+Add bootstrap: css, bundle
+install: npm install react-router-dom
+icons: icons.getbootstrap.com
